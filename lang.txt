@@ -4155,6 +4155,62 @@ tr=Sıcaklık
 he=טֶמפֶּרָטוּרָה
 
 {{SUBST}}
+en=Input Voltage
+fr=Tension d'entrée
+de=Eingangsspannung
+es=Voltaje de entrada
+pt-BR=Tensão de entrada
+it=Tensione di ingresso
+nl=Ingangsspanning
+da=Indgangsspænding
+zh-CN=输入电压
+zh-TW=輸入電壓
+ja=入力電圧
+ko=입력 전압
+vi=Điện áp đầu vào
+ar=مساهمة الجهد
+ru=Входное напряжение
+uk=Вхідна напруга
+cs=Vstupní napětí
+sk=Vstupné napätie
+hu=Bemeneti feszültség
+pl=Napięcie wejściowe
+sv=Inspänning
+fi=Tulojännite
+no=Inngangsspenning
+el=Τάση εισόδου
+tr=Giriş gerilimi
+he=מתח נכנס
+
+{{SUBST}}
+en=Output Voltage
+fr=Tension de sortie
+de=Ausgangsspannung
+es=Tensión de salida
+pt-BR=Voltagem de saída
+it=Tensione di uscita
+nl=Uitgangsspanning
+da=Udgangsspænding
+zh-CN=输出电压
+zh-TW=輸出電壓
+ja=出力電圧
+ko=출력 전압
+vi=Điện áp đầu ra
+ar=الجهد الناتج
+ru=Выходное напряжение
+uk=Вихідна напруга
+cs=Výstupní napětí
+sk=Výstupné napätie
+hu=Kimeneti feszültség
+pl=Napięcie wyjściowe
+sv=Utspänning
+fi=Ulostulojännite
+no=Utgangsspenning
+el=Τάση εξόδου
+tr=Çıkış Voltajı
+he=מתח פלט
+
+{{SUBST}}
 en=Voltage Offset
 fr=Décalage de tension
 de=Spannungs-Offset
@@ -4492,6 +4548,62 @@ no=CPU SoC Strømforbruk
 el=CPU SoC Κατανάλωση ενέργειας
 tr=CPU SoC Güç Tüketimi
 he=CPU SoC צריכת חשמל
+
+{{SUBST}}
+en=Input Power
+fr=Input Power
+de=Input Power
+es=Input Power
+pt-BR=Input Power
+it=Input Power
+nl=Input Power
+da=Input Power
+zh-CN=输入功率
+zh-TW=輸入功率
+ja=入力電力
+ko=Input Power
+vi=Input Power
+ar=Input Power
+ru=Input Power
+uk=Input Power
+cs=Input Power
+sk=Input Power
+hu=Input Power
+pl=Input Power
+sv=Input Power
+fi=Input Power
+no=Input Power
+el=Input Power
+tr=Input Power
+he=Input Power
+
+{{SUBST}}
+en=Output Power
+fr=Output Power
+de=Output Power
+es=Output Power
+pt-BR=Output Power
+it=Output Power
+nl=Output Power
+da=Output Power
+zh-CN=输出功率
+zh-TW=輸出功率
+ja=出力電力
+ko=Output Power
+vi=Output Power
+ar=Output Power
+ru=Output Power
+uk=Output Power
+cs=Output Power
+sk=Output Power
+hu=Output Power
+pl=Output Power
+sv=Output Power
+fi=Output Power
+no=Output Power
+el=Output Power
+tr=Output Power
+he=Output Power
 
 ; Power as energy consuption
 {{SUBST}}
@@ -5437,7 +5549,7 @@ ko=코어 유효 클럭
 vi=Đồng hồ hiệu quả cốt lõi
 ar=الساعات الأساسية الفعالة
 ru=Основные эффективные тактовые частоты
-uk=Основні ефективні тактові частоти
+uk=Основні ефективна частота
 cs=Efektivní Takty Jader
 sk=Efektívne Takty Jadier
 hu=Alapvető hatékony órák
